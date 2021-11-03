@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+.GamePanel{
+  
+
+    background-color: rgb(26, 11, 80);
+    width: 100%;
+    min-height: 108vh;
+    
+    color: white;
+    padding: 20px;
+}
+.App-header{
+   border-bottom: 2px solid white;
+   text-align: center;
+}
+.Market{
+    margin-top: 20px;
+    width: 40%;
+    
+    
+}
+.Market-header{
+    border-bottom:2px solid white;
+}
+.Envanter{
+    margin-top: 20px;
+    width: 40%;
+}
+.Envanter-header{
+    border-bottom: 2px solid white;
+}
+.GameBody{
+    
+  
+    width: 100%;
+    
+    min-height: 108vh;
+    
+}
+.Top-side{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.Acsessory-header{
+    border-bottom: 2px solid white;
+}
+.Acsessory{
+    margin-top: 20px; 
+    width: 40%;
+}
+.Buttom-side{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.AccAdding-header{
+    border-bottom: 2px solid white;
+}
+.AccAdding{
+    margin-top: 20px;
+    width: 40%;
+}
